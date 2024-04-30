@@ -19,9 +19,13 @@ Profile Card es el primer proyecto de 100 por haber, construido con HTML, CSS y 
 
 ### Capturas
 
-Agrega capturas de pantalla en móvil, tabletas y escritorio.
+**-- Desktop --**
 
-![Captura]()
+![Captura](https://github.com/PeterCalcina/01-day-profile-card/blob/master/images/capturas/desktop.png)
+
+**-- Mobile --**
+
+![Captura](https://github.com/PeterCalcina/01-day-profile-card/blob/master/images/capturas/mobile.png)
 
 ### Enlaces
 
